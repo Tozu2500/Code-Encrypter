@@ -3,6 +3,9 @@ Code encryption application
 
 ## Project Statistics
 
+**Current Line Count**: Run `npm run count-lines` for the most up-to-date statistics.
+
+As of January 2026:
 - **Total Lines of Code**: 1,558 lines (TypeScript/TSX source files)
 - **Source Files**: 16 TypeScript/TSX files
 - **Components**: 15 React components
@@ -24,5 +27,3 @@ Code encryption application
 | Main Application | 2 | 0* |
 
 *_Note: App.tsx and Main.tsx are currently placeholder files._
-
-**Note**: Run `npm run count-lines` to get an updated line count.
