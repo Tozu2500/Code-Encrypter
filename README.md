@@ -21,6 +21,8 @@ Code encryption application
 | Encryption Components | 3 | 364 |
 | Decryption Components | 1 | 119 |
 | Type Definitions | 1 | 41 |
-| Main Application | 2 | 0 |
+| Main Application | 2 | 0* |
+
+*_Note: App.tsx and Main.tsx are currently placeholder files._
 
 **Note**: Run `npm run count-lines` to get an updated line count.
